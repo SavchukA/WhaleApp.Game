@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhaleApp.GameServer", "WhaleApp.GameServer\WhaleApp.GameServer.csproj", "{AD1D09B1-3734-497D-99F8-59C218714137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhaleApp.GameClient", "WhaleApp.GameClient\WhaleApp.GameClient.csproj", "{79101860-A5D5-4DB7-AC48-C9F2E2C43F06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1D09B1-3734-497D-99F8-59C218714137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1D09B1-3734-497D-99F8-59C218714137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1D09B1-3734-497D-99F8-59C218714137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1D09B1-3734-497D-99F8-59C218714137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79101860-A5D5-4DB7-AC48-C9F2E2C43F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79101860-A5D5-4DB7-AC48-C9F2E2C43F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79101860-A5D5-4DB7-AC48-C9F2E2C43F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79101860-A5D5-4DB7-AC48-C9F2E2C43F06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

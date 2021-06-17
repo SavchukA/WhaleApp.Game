@@ -1,0 +1,15 @@
+{
+    "MaxPlayersCount": 2,
+
+    "PunchPower": 50,
+
+    "CriticalPunchPower": 20,
+
+    "CriticalPunchPercentage": 25,
+
+    "MaxPunchesPerPeriod": 5,
+
+    "PunchPeriodInSeconds": 15,
+
+    "MaxPlayerHealth": 200
+}
